@@ -1,0 +1,11 @@
+D:\OnlineTraining\Training\InsertNumber\InsertNumber\bin\Debug\netcoreapp2.1\InsertNumber.deps.json
+D:\OnlineTraining\Training\InsertNumber\InsertNumber\bin\Debug\netcoreapp2.1\InsertNumber.runtimeconfig.json
+D:\OnlineTraining\Training\InsertNumber\InsertNumber\bin\Debug\netcoreapp2.1\InsertNumber.runtimeconfig.dev.json
+D:\OnlineTraining\Training\InsertNumber\InsertNumber\bin\Debug\netcoreapp2.1\InsertNumber.dll
+D:\OnlineTraining\Training\InsertNumber\InsertNumber\bin\Debug\netcoreapp2.1\InsertNumber.pdb
+D:\OnlineTraining\Training\InsertNumber\InsertNumber\obj\Debug\netcoreapp2.1\InsertNumber.csprojAssemblyReference.cache
+D:\OnlineTraining\Training\InsertNumber\InsertNumber\obj\Debug\netcoreapp2.1\InsertNumber.csproj.CoreCompileInputs.cache
+D:\OnlineTraining\Training\InsertNumber\InsertNumber\obj\Debug\netcoreapp2.1\InsertNumber.AssemblyInfoInputs.cache
+D:\OnlineTraining\Training\InsertNumber\InsertNumber\obj\Debug\netcoreapp2.1\InsertNumber.AssemblyInfo.cs
+D:\OnlineTraining\Training\InsertNumber\InsertNumber\obj\Debug\netcoreapp2.1\InsertNumber.dll
+D:\OnlineTraining\Training\InsertNumber\InsertNumber\obj\Debug\netcoreapp2.1\InsertNumber.pdb
